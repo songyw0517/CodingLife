@@ -4,7 +4,7 @@
   "description": "",
   "main": "elm.js",
   "dependencies": {
-    "jsdom": "^7.0.2"
+    "jsdom": "^15.2.1"
   },
   "devDependencies": {},
   "scripts": {
